@@ -1,0 +1,183 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    background-color: black;
+
+}
+.maincontainer{
+   
+}
+.home{
+    height: 100vh;
+    background-image: url(./image/netflix-background-50-Black-1080x608.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.containerbtn1{
+    width: 6rem;
+    background-color: red;
+    color: white;
+    margin-top: 15px;
+    border-radius: 7px;
+    padding-bottom: 10px;
+    padding: 15px;
+    border-color: none;
+    height: 3rem;
+}
+.nd2container{
+    color: white;
+    display: block;
+    font-size: 30px;
+    line-height: 40px;
+    align-items: center;
+    margin-top: 150px;
+    margin-left: 250px;
+}
+bold{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input{
+    width: 40rem;
+    height: 4rem;
+    display: flex;
+    font-size: 150px;
+    color: white;
+    margin-left: 300px;
+    border-radius: 30px;
+    gap: 10px;
+}
+.input1{
+    background-color: red;
+    height: 60px;
+    border-radius: 8px;
+    font-size: 20px;
+    width: 15rem;
+    color: white;
+    
+}
+.email{
+    background-color: rgba(0, 0, 0, 0.575);
+    border-color: white;
+    width: 25rem;
+    display: flex;
+    padding: 20px;
+    color: white;
+    border-color: none;
+    justify-content: center;
+    border-radius: 8px;
+    align-items: center;
+}
+.st1pic{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 30px;
+    gap: 1px;
+
+
+}
+.st2pic{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 8rem;
+    font-size: 2rem;
+}
+.st3{
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 2rem;
+    margin-left: 8rem;
+    margin-top: 8rem;
+}
+.st4{
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btns{
+    padding: 25px 50px;
+    width: 80rem;
+    background-color: rgb(89, 89, 89);
+    border: none;
+    font-size: 20px;
+    width: 59rem;
+    text-align: left;
+    color: white;
+    margin-top: 10px;
+}
+.btns:hover{
+    background-color: rgb(70, 70, 70);
+    cursor: pointer;
+}
+.st5{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+.input01{
+    width: 40rem;
+    height: 4rem;
+    display: flex;
+    font-size: 150px;
+    color: white;
+    margin-left: 200pxpx;
+    border-radius: 30px;
+    gap: 10px;
+}
+.email2{
+    background-color: rgba(0, 0, 0, 0.575);
+    border-color: white;
+    width: 25rem;
+    display: flex;
+    padding: 20px;
+    color: white;
+    border-color: none;
+    justify-content: center;
+    border-radius: 8px;
+    align-items: center;
+}
+.para{
+    line-height: 20px;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+.last1{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 10rem;
+}
+.lang{
+    width: 4rem;
+    height: 2rem;
+    border-radius: 5px;
+}
+.lastone{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    text-decoration: underline;
+}
